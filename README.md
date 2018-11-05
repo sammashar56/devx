@@ -1,4 +1,4 @@
-                                                 ![Devx logo3](img/dvx3.PNG)
+   ![Devx logo3](img/dvx3.PNG)
 
 # devx
 
